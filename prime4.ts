@@ -12,6 +12,5 @@ while (arr.length < 100) {
     if (isPrimeNumber(x)) { arr.push(x); }
     x++;
 }
-
 console.log(arr);
 console.log(arr.length);
